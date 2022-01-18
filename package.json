@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Dikshita25/axe-custom-html-reporter/issues"
   },
-  "homepage": "https://github.com/Dikshita25/axe-custom-html-reporter#readme"
+  "homepage": "https://github.com/Dikshita25/axe-custom-html-reporter#readme",
+  "dependencies": {
+    "mustache": "^4.0.1",
+    "rimraf": "^3.0.2"
+  }
 }
